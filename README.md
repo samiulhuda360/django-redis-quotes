@@ -6,6 +6,10 @@ It’s a minimal, functional app where users can “like” quotes — and those
 
 📌 This is not meant to be a full production app — it's a clean, educational project to **highlight my Redis skills** in a Django environment for portfolio and interview purposes.
 
+## 🖼 Demo Screenshot
+
+![Screenshot of the app](screenshot.png)
+
 ## 🧪 Note
 
 This project is intentionally kept simple and focused. It serves as a **hands-on demo** of how Redis can be used with Django to cache dynamic data and improve performance.
